@@ -1,8 +1,8 @@
-# expense_manager_app
-
-A new Flutter project.
-
-## Getting Started
+#Expense Manager Application (Flutter, Firebase) 
+• Created an expense manager app that allows users to track their daily expenses, generate 
+reports, and set budget goals. 
+• Integrated Firebase for data storage and real-time synchronization of user data across 
+devices. 
 
 This project is a starting point for a Flutter application.
 
